@@ -1,0 +1,6 @@
+{
+  "name": "Rsivni",
+  "description": "A specialized music generation application for Rajasthani and Bollywood music genres.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
